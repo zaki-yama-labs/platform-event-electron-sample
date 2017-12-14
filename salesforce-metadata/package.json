@@ -4,8 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "deploy": "jsforce-deploy -D src",
+    "retrieve": "jsforce-retrieve -D src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jsforce-metadata-tools": "^1.3.0"
+  }
 }
