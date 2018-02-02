@@ -1,5 +1,5 @@
-Chatter Desktop: Metadata
-=========================
+Chatter Desktop - Platform Event Metadata
+=========================================
 
 Event Object & Process Builder Metadata.
 

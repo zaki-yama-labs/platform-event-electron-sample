@@ -1,11 +1,11 @@
-Chatter Desktop - A sample app using Platform Event
-===================================================
+Salesforce Platform Event & Electron Sample
+===========================================
 
-An Electron app using Salesforce's Platform Event.
+A sample Electron app using Salesforce's Platform Event.
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/d/dackdive/20171215/20171215045733.gif)
 
-### Installation
+### Installation & Usage
 
 1. First you need to deploy some metadata to your org.  
 Go to `salesforce-metadata` directory and follow the README.
